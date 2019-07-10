@@ -10,6 +10,7 @@
 <body>
 <!-- 通过一个HTML链接来导出目标报表模版的PDF格式报表 -->
 <a href="/ureport/pdf?_u=file:test.ureport.xml">导出PDF格式报表</a>
+<a href="/chart">跳转图表格式</a>
 <p></p>
 ${htmlReport.getContent()}
 </body>

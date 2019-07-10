@@ -6,6 +6,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
+ * ureport必须的配置
+ *
  * @author liaoxiaoxia
  * @version 1.0.0
  * @date 2019/7/9 16:00
